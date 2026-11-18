@@ -1,4 +1,4 @@
-package io.github.curso.arquiteturaspring.api;
+package io.github.curso.arquiteturaspring.montadora.api;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 

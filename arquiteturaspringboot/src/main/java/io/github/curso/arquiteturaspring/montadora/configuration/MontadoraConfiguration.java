@@ -1,4 +1,4 @@
-package io.github.curso.arquiteturaspring.configuration;
+package io.github.curso.arquiteturaspring.montadora.configuration;
 
 import io.github.curso.arquiteturaspring.montadora.Motor;
 import io.github.curso.arquiteturaspring.montadora.TipoMotor;
