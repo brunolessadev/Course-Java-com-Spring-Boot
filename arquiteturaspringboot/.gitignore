@@ -1,0 +1,15 @@
+# Ignora tudo por padrão
+*
+
+# Permite entrar nas pastas para procurar os arquivos liberados
+!*/
+
+# Arquivos permitidos
+!*.java
+!*.sql
+!*.md
+!*.xml
+!*.yml
+
+# Mantém o próprio .gitignore versionado
+!.gitignore
